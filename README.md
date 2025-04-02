@@ -21,3 +21,4 @@ All my accomplishments from DataCamp will be available here.
 
 [Intermediate SQL.pdf](https://github.com/user-attachments/files/19030813/Intermediate.SQL.pdf)
 
+[Joining Data in SQL.pdf](https://github.com/user-attachments/files/19564367/Joining.Data.in.SQL.pdf)
