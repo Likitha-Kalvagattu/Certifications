@@ -10,6 +10,7 @@ All my accomplishments from DataCamp will be available here.
 [Understanding Cloud Computing.pdf](https://github.com/user-attachments/files/19030820/Understanding.Cloud.Computing.pdf)
 
 [Understanding Artificial Intelligence.pdf](https://github.com/user-attachments/files/19030819/Understanding.Artificial.Intelligence.pdf)
+[Understanding Microsoft Azure Architecture and Services.pdf](https://github.com/user-attachments/files/21166176/Understanding.Microsoft.Azure.Architecture.and.Services.pdf)
 
 [Introduction to SQL.pdf](https://github.com/user-attachments/files/19030818/Introduction.to.SQL.pdf)
 
@@ -24,3 +25,6 @@ All my accomplishments from DataCamp will be available here.
 [Joining Data in SQL.pdf](https://github.com/user-attachments/files/19564367/Joining.Data.in.SQL.pdf)
 
 [Introduction to Relational Databases in SQL.pdf](https://github.com/user-attachments/files/19711966/Introduction.to.Relational.Databases.in.SQL.pdf)
+
+[Understanding Microsoft Azure Architecture and Services.pdf…]
+
