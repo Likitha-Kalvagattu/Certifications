@@ -26,5 +26,5 @@ All my accomplishments from DataCamp will be available here.
 
 [Introduction to Relational Databases in SQL.pdf](https://github.com/user-attachments/files/19711966/Introduction.to.Relational.Databases.in.SQL.pdf)
 
-[Understanding Microsoft Azure Architecture and Services.pdf…]
+[Understanding Microsoft Azure Architecture and Services.pdf](https://github.com/user-attachments/files/21166193/Understanding.Microsoft.Azure.Architecture.and.Services.pdf)
 
