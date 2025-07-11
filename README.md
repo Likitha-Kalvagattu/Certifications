@@ -28,3 +28,7 @@ All my accomplishments from DataCamp will be available here.
 
 [Understanding Microsoft Azure Architecture and Services.pdf](https://github.com/user-attachments/files/21166193/Understanding.Microsoft.Azure.Architecture.and.Services.pdf)
 
+[Introduction to Snowflake.pdf](https://github.com/user-attachments/files/21180417/Introduction.to.Snowflake.pdf)
+
+
+
