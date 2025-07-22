@@ -32,4 +32,5 @@ All my accomplishments from DataCamp will be available here.
 
 [Introduction to Databricks.pdf](https://github.com/user-attachments/files/21288239/Introduction.to.Databricks.pdf)
 
+[Database Design.pdf](https://github.com/user-attachments/files/21369512/Database.Design.pdf)
 
