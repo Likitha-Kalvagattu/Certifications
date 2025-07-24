@@ -34,3 +34,4 @@ All my accomplishments from DataCamp will be available here.
 
 [Database Design.pdf](https://github.com/user-attachments/files/21369512/Database.Design.pdf)
 
+[Data Warehousing Concepts.pdf](https://github.com/user-attachments/files/21412845/Data.Warehousing.Concepts.pdf)
