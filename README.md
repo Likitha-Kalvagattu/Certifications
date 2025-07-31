@@ -38,3 +38,4 @@ All my accomplishments from DataCamp will be available here.
 
 [Introduction to Snowflake SQL.pdf](https://github.com/user-attachments/files/21434203/Introduction.to.Snowflake.SQL.pdf)
 
+[Associate Data Engineer in SQL.pdf](https://github.com/user-attachments/files/21528147/Associate.Data.Engineer.in.SQL.pdf)
